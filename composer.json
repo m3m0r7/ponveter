@@ -1,0 +1,19 @@
+{
+    "name": "m3m0r7/ponveter",
+    "type": "library",
+    "description": "Converter for PHP language to Go language",
+    "keywords": [
+        "php",
+        "parser"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Nikita Popov"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "nikic/php-parser": "^4.12"
+    }
+}
